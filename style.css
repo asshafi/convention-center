@@ -1,0 +1,31 @@
+.card-text {
+    color: rgb(125, 125, 125);
+}
+
+.fa-circle-check {
+    color: rgb(158, 176, 182);
+}
+
+.button {
+    border: 0;
+    background-color: rgb(254, 235, 242);
+    border-radius: 20px;
+}
+
+.hot {
+    position: relative;
+    margin-top: -10px;
+}
+
+footer {
+    background-color: black;
+    height: 350px;
+}
+@media screen and (max-width:767px) {
+    .carousel-inner img{
+        height: 55vh;
+        width: 100%;
+    }
+   
+    
+}
